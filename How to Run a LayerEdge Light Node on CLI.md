@@ -9,7 +9,7 @@ This is a step-by-step tutorial to set up and run a LayerEdge light node using t
 
 ## Step 1: Setting Up Your VPS
 
-You can choose CLOUP VPS 2 on Contabo : https://www.tkqlhce.com/click-101114590-13484397
+You can choose CLOUD VPS 2 on Contabo : https://www.tkqlhce.com/click-101114590-13484397
 
 ![image](https://github.com/user-attachments/assets/a18d3037-3969-49c1-a546-cd8ad9cb5091)
 
